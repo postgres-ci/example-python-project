@@ -2,7 +2,7 @@ import unittest
 
 from project import sum;
 
-class SumTest(unittest.TestCase) :
+class ProjectTestCase(unittest.TestCase) :
 
 	def test_sum(self) :
 
